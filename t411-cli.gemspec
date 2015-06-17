@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 't411-cli'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2015-02-24'
   s.summary     = "t411-cli"
   s.description = "t411-cli to downloads torrents from t411 tracker in terminal"
