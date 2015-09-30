@@ -1,7 +1,7 @@
 module API
   module T411
 
-    @@base_url = "https://api.t411.io"
+    @@base_url = "https://api.t411.in"
     def auth
       response = HTTParty.post("#{@@base_url}/auth", {body: {username: @config[:t411_user], password: @config[:t411_pass]}})
       response =  JSON.parse(response.body)
