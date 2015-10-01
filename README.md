@@ -13,7 +13,7 @@ At the moment, the gem allows you to :
 
 1. ``` git clone git@github.com:Hito01/t411-cli.git ```
 2. ``` gem build t411-cli.gemspec ```
-3. ``` gem install t411-cli-0.2.2.gem ```
+3. ``` gem install t411-cli-0.2.3.gem ```
 
 ## And then ?
 
